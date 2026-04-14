@@ -31,10 +31,10 @@ Linguagem de marcação simples. Para mais detelhes, [ver documentacao Git](http
 
 Documentos que nao devem ser reconhecidos pelo git
 
-```
-    mkdir .gitignore
+    ``` git
+mkdir .gitignore
 
-    mkdir resumos/
+mkdir resumos/
 
-    mv resumos/ .gitignore/
-```
+mv resumos/ .gitignore/
+    ```
