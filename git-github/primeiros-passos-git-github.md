@@ -26,3 +26,15 @@ Para conectar o repositorio remoto:
 ### markdown
 
 Linguagem de marcação simples. Para mais detelhes, [ver documentacao Git](https://readme.so/editor)
+
+### Git ignore
+
+Documentos que nao devem ser reconhecidos pelo git
+
+```
+    mkdir .gitignore
+
+    mkdir resumos/
+
+    mv resumos/ .gitignore/
+```
